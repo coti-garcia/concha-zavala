@@ -1,0 +1,51 @@
+<footer id="footer">
+        <div class="footer-widgets">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3 col-sm-6">
+                <div class="widget">
+                  <figure class="footer-logo mb-15">
+                    <img src="images/logo-dark.png" alt="">
+                  </figure>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="widget">
+                  <h5>Dirección</h5>
+                  <div class="menu-footer">
+                    <ul>
+                      <li>Edificio World Trade Center Stgo.
+                      </li>
+                      <li><a href="https://goo.gl/maps/A2hVHCfM3AYVzLg46" target="_blank">Av. Nueva Tajamar 481.<br>Torre Norte. Oficina 707.<br>Las Condes. Santiago. Chile.</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="widget">
+                  <h5>Mail</h5>
+                  <div class="menu-footer">
+                    <ul>
+                      <li><a href="mailto:contacto@conchazavala.cl">contacto@conchazavala.cl</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="widget">
+                  <h5>Teléfono</h5>
+                  <ul>
+                      <li><a href="tel:+56232451384">(56) 23 245 1384 </a>
+                      </li>
+                      <li><a href="tel:+56232451385">(56) 23 245 1385 </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+</footer>
