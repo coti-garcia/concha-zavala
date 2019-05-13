@@ -80,31 +80,31 @@
           <div class="row flex-row">
             <div class="col-flex mt-25 mb-25">
               <div class="icon-box align-center" data-animation="zoomOut">
-                <div class="animated-icon white" data-icon="images/icons/paintbrush.svg"></div>
+                <div class="animated-icon white" data-icon="images/icons/world.svg"></div>
                 <h4 class="upper">Litigación Civil, Comercial y Económica</h4>
               </div>
             </div>
             <div class="col-flex mt-25 mb-25">
               <div class="icon-box align-center" data-animation="zoomOut" data-delay="300">
-                <div class="animated-icon white" data-icon="images/icons/watch.svg"></div>
+                <div class="animated-icon white" data-icon="images/icons/cart.svg"></div>
                 <h4 class="upper">Litigación en Libre Competencia, Derecho del Consumidor y Mercados Regulados</h4>
               </div>
             </div>
             <div class="col-flex mt-25 mb-25">
               <div class="icon-box align-center" data-animation="zoomOut" data-delay="600">
-                <div class="animated-icon white" data-icon="images/icons/pencil-ruler.svg"></div>
+                <div class="animated-icon white" data-icon="images/icons/sheet-pencil.svg"></div>
                 <h4 class="upper">Litigación Constitucional y Administrativa</h4>
               </div>
             </div>
             <div class="col-flex mt-25 mb-25">
               <div class="icon-box align-center" data-animation="zoomOut" data-delay="900">
-                <div class="animated-icon white" data-icon="images/icons/compass.svg"></div>
+                <div class="animated-icon white" data-icon="images/icons/graph-3.svg"></div>
                 <h4 class="upper">Asesoría en Materias Regulatorias</h4>
               </div>
             </div>
             <div class="col-flex mt-25 mb-25">
               <div class="icon-box align-center" data-animation="zoomOut" data-delay="1200">
-                <div class="animated-icon white" data-icon="images/icons/layout-header-complex4.svg"></div>
+                <div class="animated-icon white" data-icon="images/icons/target.svg"></div>
                 <h4 class="upper">Asesoría en Gobiernos Corporativos</h4>
               </div>
             </div>

@@ -70,7 +70,7 @@ section.contact-title{
     background-size: cover;
 }
 #areas-description .icon-box{
-    min-height: 240px;
+    min-height: 280px;
 }
 .job-info .name h2{
     font-size: 21px;
@@ -109,9 +109,14 @@ section.contact-title{
 #map-section{
     padding-bottom: 190px;
 }
+.split-section .animated-icon {
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
 @media only screen and (max-width: 1200px) {
     #areas-description .icon-box{
-        min-height: 270px;
+        min-height: 320px;
     }
 }
 @media only screen and (max-width: 991px) {

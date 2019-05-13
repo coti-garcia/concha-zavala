@@ -50,7 +50,7 @@
         <div class="container">
           <div class="col-md-5 col-sm-7 col-md-offset-7 col-sm-offset-5">
             <div class="title text-center">
-              <h4><i class="hc-cog"></i></h4>
+              <div class="animated-icon colored" data-icon="images/icons/gear.svg"></div>
             </div>
             <div class="section-content text-center">
               <p>Porque estamos conscientes de que cada cliente es distinto y que cada problema es único, nuestro trabajo busca <strong>integrar las consideraciones jurídicas, económicas, comunicacionales y técnicas </strong>en el diseño de respuestas particulares para cada caso.</p>
@@ -69,7 +69,7 @@
         <div class="container">
           <div class="col-md-5 col-sm-7">
             <div class="title text-center">
-              <h4><i class="hc-bulb"></i></h4>
+              <div class="animated-icon colored" data-icon="images/icons/lightbulb.svg"></div>
             </div>
             <div class="section-content text-center">
               <p>Porque estamos conscientes de que cada cliente es distinto y que cada problema es único, nuestro trabajo busca <strong>integrar las consideraciones jurídicas, económicas, comunicacionales y técnicas </strong>en el diseño de respuestas particulares para cada caso.</p>
@@ -89,7 +89,7 @@
         <div class="container">
           <div class="col-md-5 col-sm-7 col-md-offset-7 col-sm-offset-5">
             <div class="title text-center">
-              <h4><i class="hc-hand"></i></h4>
+              <div class="animated-icon colored" data-icon="images/icons/spread-text-bookmark.svg"></div>
             </div>
             <div class="section-content text-center">
               <p>Nuestro permanente compromiso con la excelencia y la discreción, y nuestra <strong>política de involucramiento directo de nuestros socios en cada asunto</strong>, hace que sólo asumamos un número acotado de casos. </p>

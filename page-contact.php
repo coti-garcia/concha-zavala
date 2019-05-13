@@ -32,7 +32,7 @@
       <section class="p-0">
         <div class="container-fluid">
           <div class="row row-flex">
-            <div class="col-sm-12 col-md-4">
+            <div class="col-sm-12 col-md-4 col-lg-4">
               <div class="column-inner with-padding">
                 <div class="icon-box align-center"><i class="hc-pin"></i>
                   <div class="ib-content">
@@ -44,7 +44,7 @@ Oficina 707. Las Condes. Santiago. Chile.
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-md-6">
+            <div class="col-sm-6 col-md-4 col-lg-4">
               <div class="column-inner with-padding dark-grey-bg">
                 <div class="icon-box mail align-center">
                   <img src="images/envelope-icon.png" alt="">
@@ -55,7 +55,7 @@ Oficina 707. Las Condes. Santiago. Chile.
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-md-6">
+            <div class="col-sm-6 col-md-4 col-lg-4">
               <div class="column-inner with-padding dark-bg">
                 <div class="icon-box align-center"><i class="hc-call"></i>
                   <div class="ib-content">
