@@ -1,11 +1,17 @@
 <footer id="footer">
         <div class="footer-widgets">
           <div class="container">
+            
+            <div class="row visible-sm visible-xs">
+                <figure class="footer-logo">
+                    <img src="images/logo-light.png" alt="">
+                  </figure>
+            </div>
             <div class="row">
-              <div class="col-md-3 col-sm-6">
+              <div class="col-md-3 col-sm-6 hidden-sm">
                 <div class="widget">
                   <figure class="footer-logo mb-15">
-                    <img src="images/logo-dark.png" alt="">
+                    <img src="images/isotipo-blanco.png" alt="">
                   </figure>
                 </div>
               </div>

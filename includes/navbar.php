@@ -2,7 +2,7 @@
         <div class="navbar-wrapper">
           <div class="container">
             <div class="logo">
-              <a href="index.html">
+              <a href="index.php">
                 <img class="logo-light" src="images/logo-light.png" alt="">
                 <img class="logo-dark" src="images/logo-dark.png" alt="">
               </a>
@@ -32,15 +32,15 @@
             </div>
             <div id="navigation">
               <ul class="navigation-menu nav">
-                <li><a href="#">Home</a>
+                <li><a href="index.php" class="<?php echo $activemenu=="Home" ? "active": ""; ?>">Home</a>
                 </li>
-                <li><a href="#">Presentación</a>
+                <li><a href="page-about.php" class="<?php echo $activemenu=="About" ? "active": ""; ?>">Presentación</a>
                 </li>
-                <li><a href="#">Áreas de práctica</a>
+                <li><a href="page-practice-areas.php" class="<?php echo $activemenu=="Areas" ? "active": ""; ?>">Áreas de práctica</a>
                 </li>
-                <li><a href="#">Equipo</a>
+                <li><a href="page-team.php" class="<?php echo $activemenu=="Team" ? "active": ""; ?>">Equipo</a>
                 </li>
-                <li><a href="#">Contacto</a>
+                <li><a href="page-contact.php" class="<?php echo $activemenu=="Contact" ? "active": ""; ?>">Contacto</a>
                 </li>
                 </li>
               </ul>

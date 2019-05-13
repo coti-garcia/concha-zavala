@@ -4,8 +4,9 @@
   <?php include 'includes/head.php';?>
 
   <body>
+  <?php $activemenu="Home"; ?>
     <!-- Preloader-->
-    <div id="loader">
+   <!--<div id="loader">
       <div class="centrize">
         <div class="v-center">
           <div id="mask">
@@ -15,7 +16,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
     <!-- End Preloader-->
     <div id="wrapper">
       <?php include 'includes/navbar.php';?>
@@ -63,7 +64,7 @@
         <div class="row-parallax-bg">
           <div class="parallax-wrapper">
             <div class="parallax-bg">
-              <img src="images/bg-image-26.jpg" alt="">
+             <!--<img src="images/bg-image-26.jpg" alt="">-->
             </div>
             <div class="parallax-overlay"></div>
           </div>
@@ -113,7 +114,7 @@
       <section id="team">
         <div class="container">
           <div class="title text-center">
-            <h2 data-bigletter="C">Equipo</h2>
+            <h2>Equipo</h2>
           </div>
           <div class="section-content pt-25 pb-25">
             <div class="row">
@@ -140,7 +141,7 @@
                   </div>
                   <div class="team-overlay">
                     <div class="team-info">
-                      <h4>WANIRA ARÍS</h4><span>Socia</span>
+                      <h4>Wanira Arís</h4><span>Socia</span>
                       <ul class="team-social">
                         <li><a href="#" target="_blank"><i class="hc-linkedin"></i></a>
                         </li>
@@ -172,7 +173,7 @@
                   </div>
                   <div class="team-overlay">
                     <div class="team-info">
-                      <h4>Valentina Santelices</h4><span>Sales Manager</span>
+                      <h4>Valentina Santelices</h4><span>ABOGADA ASOCIADA</span>
                       <ul class="team-social">
                         <li><a href="#" target="_blank"><i class="hc-linkedin"></i></a>
                         </li>

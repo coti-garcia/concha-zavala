@@ -1,0 +1,213 @@
+#navbar .navigation-menu > li > a.active {
+    border-bottom: solid thin #ccc;
+}
+
+#navbar .navigation-menu > li > a {
+    padding-top: 30px;
+    padding-bottom: 3px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+#navbar .navigation-menu > li{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.slide-content h1.font-big {
+    font-size: 50px;
+    letter-spacing: 0px;
+    max-width: 550px;
+    text-align: left;
+}
+
+.title > h6, .title h2 {
+    text-transform: none;
+    font-weight: 900;
+    font-size: 35px;
+    letter-spacing: 0;
+    margin-top: 0;
+    color: #9C9B9B;
+}
+#about span.colored-text {
+    color: #000000 !important;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#services .col-flex{
+    flex: 1 1 0;
+}
+#services{
+    background: url(../images/bg-image-26.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
+.split-section h4 i{
+    font-size: 50px;
+}
+section.about-title{
+    background: url(../images/bg-image-41.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+section.areas-title{
+    background: url(../images/bg-image-40.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
+section.team-title{
+    background: url(../images/bg-image-47.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+section.contact-title{
+    background: url(../images/bg-image-30.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
+#areas-description .icon-box{
+    min-height: 240px;
+}
+.job-info .name h2{
+    font-size: 21px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.job-info .name h5{
+    font-size: 14px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border-bottom: solid thin #cccccc;
+    color: #1f1f1f;
+    margin-top: 0px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.job-info .lang h6{
+    margin-bottom: 3px;
+}
+.job-info .lang{
+    border-bottom: solid thin #cccccc;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.dark-grey-bg{
+    background-color: #9C9B9B;
+}
+.icon-box.mail img{
+    width: 55px;
+    margin-bottom: 37px;
+    margin-top: 11px;
+}
+.icon-box.mail p a{
+    color: #fff;
+}
+#map-section{
+    padding-bottom: 190px;
+}
+@media only screen and (max-width: 1200px) {
+    #areas-description .icon-box{
+        min-height: 270px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    #areas-description .icon-box{
+        min-height: 320px;
+    }
+    #navbar .navigation-menu > li:last-child a{
+        padding-bottom: 20px;
+    }
+    #navbar .navigation-menu > li > a.active{
+        border-bottom: none;
+        font-weight: 600;
+    }
+    .slide-item, #home-slider {
+        height: 60vh;
+    }
+    .slide-arrows {
+        top: 45%;
+     }
+    .hidden-sm{
+         display: none;
+     }
+     .footer-widgets .widget {
+        margin-bottom: 0px;
+    }
+    .footer-logo img{
+        padding-left: 17px;
+        margin-bottom: 30px;
+        width: 200px;
+    }
+    section.page-title.parallax-section {
+        height: 450px;
+    }
+    #map-section {
+        padding-bottom: 0;
+        padding-top: 120px;
+        height: 300px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #areas-description .icon-box{
+        min-height: 0px;
+    }
+   
+}
+@media only screen and (max-width: 767px) {
+    .job-info .name{
+        margin-top: 20px;
+    }
+    .slide-content h1.font-big{
+        font-size: 27px;
+    }
+    .title > h6, .title h2{
+        font-size: 25px;
+    }
+    section{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    section.page-title{
+        padding-bottom: 0px;
+    }
+    .title > p {
+        font-size: 16px;
+    }
+    .flex-row{
+        flex-direction: column;
+    }
+    #services .col-flex {
+        flex: none;
+    }
+    #services .icon-box {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .footer-widgets .widget {
+        margin-bottom: 30px;
+    }
+    .title > h1 {
+        font-size: 30px;
+        letter-spacing: -1px;
+        margin-top: 0;
+    }
+    section.page-title.parallax-section {
+        height: 250px;
+    }
+    .img-side {
+        min-height: 250px;
+        margin: -50px 0 60px;
+        position: relative!important;
+        z-index: 0;
+    }
+    .first .icon-box{
+        margin-top: 0px;
+    }
+    .column-inner.with-padding {
+        padding: 20px 10px;
+    }
+}

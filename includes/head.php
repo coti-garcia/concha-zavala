@@ -7,5 +7,6 @@
     <link rel="stylesheet" href="css/bundle.css">
     <link rel="stylesheet" href="css/hody-icons.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700|Source+Sans+Pro:300,400|Kaushan+Script|Lora|Playfair+Display:700" rel="stylesheet" type="text/css">
   </head>
