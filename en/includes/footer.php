@@ -4,20 +4,20 @@
             
             <div class="row visible-sm visible-xs">
                 <figure class="footer-logo">
-                    <img src="images/logo-light.png" alt="">
+                    <img src="../images/logo-light.png" alt="">
                   </figure>
             </div>
             <div class="row">
               <div class="col-md-3 col-sm-6 hidden-sm">
                 <div class="widget">
                   <figure class="footer-logo mb-15">
-                    <img src="images/isotipo-blanco.png" alt="">
+                    <img src="../images/isotipo-blanco.png" alt="">
                   </figure>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="widget">
-                  <h5>Dirección</h5>
+                  <h5>Address</h5>
                   <div class="menu-footer">
                     <ul>
                       <li>Edificio World Trade Center Santiago.
@@ -41,7 +41,7 @@
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="widget">
-                  <h5>Teléfono</h5>
+                  <h5>Phone</h5>
                   <ul>
                       <li><a href="tel:+56232451384">(56) 23 245 1384 </a>
                       </li>

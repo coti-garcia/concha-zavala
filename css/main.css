@@ -114,6 +114,19 @@ section.contact-title{
     margin-left: auto;
     margin-right: auto;
 }
+
+.menu-extras .menu-item .header-socials > ul > li{
+    padding-left: 10px;
+    padding-right:10px;
+}
+.menu-extras .menu-item .header-socials > ul > li >  a{
+    padding-left: 0;
+    padding-right: 0;
+}
+.menu-extras .menu-item .header-socials > ul > li >  a.active {
+    border-bottom: solid thin #ccc;
+}
+
 @media only screen and (max-width: 1200px) {
     #areas-description .icon-box{
         min-height: 320px;

@@ -3,17 +3,17 @@
           <div class="container">
             <div class="logo">
               <a href="index.php">
-                <img class="logo-light" src="images/logo-light.png" alt="">
-                <img class="logo-dark" src="images/logo-dark.png" alt="">
+                <img class="logo-light" src="../images/logo-light.png" alt="">
+                <img class="logo-dark" src="../images/logo-dark.png" alt="">
               </a>
             </div>
             <div class="menu-extras">
               <div class="menu-item">
                 <div class="header-socials">
                   <ul>
-                    <li><a class="active">ESP</a>
+                    <li><a href="/index.php">ESP</a>
                     </li>
-                    <li><a href="en/index.php">EN</a>
+                    <li><a class="active">EN</a>
                     </li>
                   </ul>
                 </div>
@@ -34,13 +34,13 @@
               <ul class="navigation-menu nav">
                 <li><a href="index.php" class="<?php echo $activemenu=="Home" ? "active": ""; ?>">Home</a>
                 </li>
-                <li><a href="page-about.php" class="<?php echo $activemenu=="About" ? "active": ""; ?>">Presentación</a>
+                <li><a href="page-about.php" class="<?php echo $activemenu=="About" ? "active": ""; ?>">Presentation</a>
                 </li>
-                <li><a href="page-practice-areas.php" class="<?php echo $activemenu=="Areas" ? "active": ""; ?>">Áreas de práctica</a>
+                <li><a href="page-practice-areas.php" class="<?php echo $activemenu=="Areas" ? "active": ""; ?>">Practice Areas</a>
                 </li>
-                <li><a href="page-team.php" class="<?php echo $activemenu=="Team" ? "active": ""; ?>">Equipo</a>
+                <li><a href="page-team.php" class="<?php echo $activemenu=="Team" ? "active": ""; ?>">Team</a>
                 </li>
-                <li><a href="page-contact.php" class="<?php echo $activemenu=="Contact" ? "active": ""; ?>">Contacto</a>
+                <li><a href="page-contact.php" class="<?php echo $activemenu=="Contact" ? "active": ""; ?>">Contact</a>
                 </li>
                 </li>
               </ul>

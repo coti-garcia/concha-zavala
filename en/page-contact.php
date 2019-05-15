@@ -22,8 +22,8 @@
           <div class="v-center">
             <div class="container">
               <div class="title text-center">
-                <h4 class="upper">TRABAJEMOS JUNTOS</h4>
-                <h1>Contacto</h1>
+                <h4 class="upper">LET'S WORK TOGETHER</h4>
+                <h1>Contact</h1>
               </div>
             </div>
           </div>
@@ -36,7 +36,7 @@
               <div class="column-inner with-padding">
                 <div class="icon-box align-center"><i class="hc-pin"></i>
                   <div class="ib-content">
-                    <h3>Dirección</h3>
+                    <h3>Address</h3>
                     <p>Edificio World Trade Center Santiago.</p>
                      <p>Av. Nueva Tajamar 481. Torre Norte.<br/>
 Oficina 707. Las Condes. Santiago. Chile.
@@ -47,9 +47,9 @@ Oficina 707. Las Condes. Santiago. Chile.
             <div class="col-sm-6 col-md-4 col-lg-4">
               <div class="column-inner with-padding dark-grey-bg">
                 <div class="icon-box mail align-center">
-                  <img src="images/envelope-icon.png" alt="">
+                  <img src="../images/envelope-icon.png" alt="">
                   <div class="ib-content">
-                    <h3>>Mail</h3>
+                    <h3>Email</h3>
                     <p><a href="mailto:contacto@conchazavala.cl">contacto@conchazavala.cl</a></p>
                   </div>
                 </div>
@@ -59,7 +59,7 @@ Oficina 707. Las Condes. Santiago. Chile.
               <div class="column-inner with-padding dark-bg">
                 <div class="icon-box align-center"><i class="hc-call"></i>
                   <div class="ib-content">
-                    <h3>Teléfonos</h3>
+                    <h3>Phone</h3>
                     <p><a href="tel:+56232451384">(56) 23 245 1384 </a></p>
                     <p><a href="tel:+56232451385">(56) 23 245 1385 </a></p>
                   </div>
@@ -81,12 +81,12 @@ Oficina 707. Las Condes. Santiago. Chile.
       <?php include 'includes/footer.php';?>
 
     </div>
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/bundle.js"></script>
-    <script type="text/javascript" src="js/SmoothScroll.js"></script>
-    <script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
+    <script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/bundle.js"></script>
+    <script type="text/javascript" src="../js/SmoothScroll.js"></script>
+    <script type="text/javascript" src="../js/jquery.mb.YTPlayer.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNGOsBBZo9vf0Tw4w6aJiilSTFVfQ5GPI"></script>
-    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="../js/main.js"></script>
   </body>
 
 </html>
