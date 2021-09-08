@@ -186,6 +186,50 @@
           </div>
         </div>
       </section>
+      <section id="reconocimientos" class="bg-grey">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="title text-center">
+                <h6>Reconocimientos</h6>
+              </div>
+              <div class="section-content pt-25 pb-25">
+                <div class="row">
+                  <div class="col-md-3 col-sm-6">
+                    <div class="team-member" data-animation="fadeInUp">
+                      <div class="reconocimiento-image">
+                        <img src="images/Leaders-League-2021.png" alt="Leaders League">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                    <div class="team-member" data-animation="fadeInUp" data-delay="300">
+                      <div class="reconocimiento-image">
+                        <img src="images/Benchmark-Litigation-2021.png" alt="Benchmark Litigation 2021">
+                      </div>
+
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                    <div class="team-member" data-animation="fadeInUp" data-delay="600">
+                      <div class="reconocimiento-image padding-top">
+                        <img src="images/Benchmark-Litigation-1.png" alt="Benchmark Litigation">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                    <div class="logos" data-animation="fadeInUp" data-delay="900">
+                      <div class="reconocimiento-image">
+                        <img src="images/loty-small-year-2021.png" alt="Lawer of the year">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       
       <?php include 'includes/footer.php';?>
     </div>

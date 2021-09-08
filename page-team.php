@@ -66,6 +66,10 @@
                                     <li>Es miembro del Colegio de Abogados de Chile. </li>
                                 </ul>
                               </div>
+                              <div class="reconocimiento-item lang">
+                                <h6>RECONOCIMIENTO:</h6>
+                                <div class="logos"><img src="images/Benchmark-Litigation-1.png" alt="Benchmark Litigation"></div>
+                              </div>
                             </div>
                           </div>
                         </div>
@@ -99,6 +103,13 @@
                                   <li>Se desempeñó como Abogada del Departamento de Asuntos Marítimos del Subsecretaría para las Fuerzas Armadas el año 2011.</li>
                                   <li>Fue abogada asociada de Schweitzer & Cía., entre los años 2009 y 2010, y entre los años 2012 y 2017.</li>
                                 </ul>
+                              </div>
+                              <div class="reconocimiento-item lang">
+                                <h6>RECONOCIMIENTOS:</h6>
+                                <div class="logos">
+                                  <img src="images/Benchmark-Litigation-1.png" alt="Benchmark Litigation">
+                                  <img src="images/loty-small-year-2021.png" alt="Benchmark Litigation">
+                                </div>
                               </div>
                             </div>
                           </div>

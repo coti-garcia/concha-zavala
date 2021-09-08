@@ -28,7 +28,7 @@
     font-size: 35px;
     letter-spacing: 0;
     margin-top: 0;
-    color: #9C9B9B;
+    color:#1D1D1C;
 }
 #about span.colored-text {
     color: #000000 !important;
@@ -127,6 +127,33 @@ section.contact-title{
     border-bottom: solid thin #ccc;
 }
 
+.bg-grey{
+    background-color: #EAEAEA;
+}
+.reconocimiento-image{
+    text-align: center;
+}
+.reconocimiento-image img {
+    max-height: 120px;
+    max-width: 280px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.reconocimiento-image.padding-top{
+    padding-top: 10px;
+}
+.reconocimiento-item {
+    padding-top: 10px;
+    border-top: solid thin #ccc;
+    margin-top: 30px;
+}
+.reconocimiento-item img{
+    max-width: 200px;
+    margin-top: 6px;
+    max-height: 75px;
+    margin-right: 20px;
+}
 @media only screen and (max-width: 1200px) {
     #areas-description .icon-box{
         min-height: 320px;
